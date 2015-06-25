@@ -22,3 +22,30 @@ hr
 	width:25%;
 	height:300px;
 }
+ul
+{
+    float:left;
+    width:100%;
+    padding:0;
+    margin:0;
+    list-style-type:none;
+    
+}
+#menu a
+{
+	float:left;
+    width:6em;
+    text-decoration:none;
+    padding:0.2em 0.6em;
+    border-right:1px solid white;
+}
+#disco img
+{
+ opacity:0.4;
+}
+#disco img:hover
+{
+ opacity:1.0;
+}
+
+

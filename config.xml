@@ -5,13 +5,13 @@
      id    = "com.phonegap.Esqueleto"  
      version  = "1.0.0">  
 	 
-   <name> Eventos </name>  
+   <name> Bunbury </name>  
    
    <description>  
-     Primer Ejemplo de eventos
+     Pagina de Bunbury
    </description>  
    
-   <author href="https://build.phonegap.com" email="micorreo@gmail.com">  
+   <author href="https://build.phonegap.com" email="fermonmtz@gmail.com">  
        Maria Fernanda Martinez Montaño
    </author>  
    
