@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+hr
+{
+	width:80%;
+}
+#imgi
+{
+	float:left;
+	width:25%;
+	height:300px;
+
+}
+#info
+{
+	width:60%;
+	
+}
+#imgd
+{
+	float:right;
+	width:25%;
+	height:300px;
+}
